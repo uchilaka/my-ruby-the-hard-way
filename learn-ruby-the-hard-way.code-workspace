@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Learn Ruby The Hard Way",
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2
+	}
+}
